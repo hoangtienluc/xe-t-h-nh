@@ -173,10 +173,3 @@ roslaunch diffbot_description view_diffbot.launch
 
 Your contributions are most welcome. These can be in the form of raising issues, creating PRs to correct or add documentation and of course solving existing issues or adding new features.
 
-
-## :pencil: License
-
-`diffbot` is licenses under the [BSD 3-Clause](./LICENSE).
-See also [open-source-license-acknowledgements-and-third-party-copyrights.md](open-source-license-acknowledgements-and-third-party-copyrights.md).
-The [documentation](https://ros-mobile-robots.com/) is licensed differently,
-visit its [license text](https://github.com/ros-mobile-robots/ros-mobile-robots.github.io#license) to learn more.
